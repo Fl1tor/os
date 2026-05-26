@@ -190,5 +190,5 @@ main:
 ## Редактируем скрипт под PowerShell
 <img width="461" height="155" alt="photo_2026-05-20_05-24-05" src="https://github.com/user-attachments/assets/ef3891c5-6243-4f0b-a82d-adcdfeecf7cc" />
 
-## В first_dir добавляем два изображения и проверяем их наличие (добавил два рендера из Blender). Запускаем скрипт и копируем файлы в папку second_dir
+## В first_dir добавляем два изображения
 <img width="641" height="531" alt="photo_2026-05-20_05-23-45" src="https://github.com/user-attachments/assets/01295afb-5aaf-4ce1-b040-18aadf1395a8" />
